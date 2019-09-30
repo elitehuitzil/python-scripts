@@ -1,6 +1,6 @@
-# elitehuitzil@gmail.com
-# Give a tip: paypal.me/tzil
-# Cómprame un refresco: paypal.me/tzil
+elitehuitzil@gmail.com
+Give a tip: paypal.me/tzil
+Cómprame un refresco: paypal.me/tzil
 
 python-scripts
 Several python scripts
